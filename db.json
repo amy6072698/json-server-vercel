@@ -13,9 +13,9 @@
     {
       "email": "1@mail.com",
       "password": "$2a$10$.Qs1F.p8i/exNRcSMLPa8u04UnFFh0ZNMOQH/4rljYqgZP/T/9EZK",
-      "name": "Tom Holland",
+      "name": "ChrisChen",
       "gender": "male",
-      "birthday": "1996-06-01",
+      "birthday": "2012-01-01",
       "phone": "0912345678",
       "id": 2
     },
@@ -97,11 +97,7 @@
         "如廁訓練",
         "延緩失能"
       ],
-      "allowance": [
-        "老人補助（低收、中低收）",
-        "身心障礙",
-        "喘息服務"
-      ],
+      "allowance": ["老人補助（低收、中低收）", "身心障礙", "喘息服務"],
       "roomCards": [
         {
           "id": 1,
@@ -112,7 +108,7 @@
         },
         {
           "id": 2,
-          "imgUrl": "https://raw.githubusercontent.com/Jack-Xiao-2024/Project_D01/refs/heads/dev/assets/images/Building/B-15.png",
+          "imgUrl": "https://raw.githubusercontent.com/Jack-Xiao-2024/Project_D01/refs/heads/dev/assets/images/Building/B-16.png",
           "roomType": "三人房",
           "price": 36000,
           "availableBeds": 1
@@ -165,19 +161,9 @@
       ],
       "description": "幸福頤養園致力於提供長者溫馨舒適的生活環境。我們的設施包括專業護理病房,確保長者健康;康復訓練區,幫助長者維持和提升體能。",
       "age": "60 歲以上",
-      "caringItem": [
-        "認知障礙（失智）",
-        "氣切管",
-        "氧氣"
-      ],
-      "medicalService": [
-        "腫瘤照顧",
-        "洗腎接送",
-        "營養評估"
-      ],
-      "allowance": [
-        "喘息服務"
-      ],
+      "caringItem": ["認知障礙（失智）", "氣切管", "氧氣"],
+      "medicalService": ["腫瘤照顧", "洗腎接送", "營養評估"],
+      "allowance": ["喘息服務"],
       "roomCards": [
         {
           "id": 1,
@@ -188,7 +174,7 @@
         },
         {
           "id": 2,
-          "imgUrl": "https://raw.githubusercontent.com/Jack-Xiao-2024/Project_D01/refs/heads/dev/assets/images/Building/B-15.png",
+          "imgUrl": "https://raw.githubusercontent.com/Jack-Xiao-2024/Project_D01/refs/heads/dev/assets/images/Building/B-16.png",
           "roomType": "三人房",
           "price": 36000,
           "availableBeds": 2
@@ -245,19 +231,9 @@
       ],
       "description": "安康長青之家提供全面的長期照護服務,專為長者設計。我們擁有全天候護理中心,確保長者隨時能獲得專業照顧;健康膳食區,提供營養均衡的餐點。",
       "age": "65 歲以上",
-      "caringItem": [
-        "復健照護",
-        "腫瘤照護（癌症）",
-        "透析照護（洗腎）"
-      ],
-      "medicalService": [
-        "術後照顧",
-        "生活照顧",
-        "傷口照顧"
-      ],
-      "allowance": [
-        "老人補助（低收、中低收）"
-      ],
+      "caringItem": ["復健照護", "腫瘤照護（癌症）", "透析照護（洗腎）"],
+      "medicalService": ["術後照顧", "生活照顧", "傷口照顧"],
+      "allowance": ["老人補助（低收、中低收）"],
       "roomCards": [
         {
           "id": 1,
@@ -268,7 +244,7 @@
         },
         {
           "id": 2,
-          "imgUrl": "https://raw.githubusercontent.com/Jack-Xiao-2024/Project_D01/refs/heads/dev/assets/images/Building/B-15.png",
+          "imgUrl": "https://raw.githubusercontent.com/Jack-Xiao-2024/Project_D01/refs/heads/dev/assets/images/Building/B-16.png",
           "roomType": "三人房",
           "price": 36000,
           "availableBeds": 3
@@ -287,7 +263,7 @@
       "name": "樂康頤和園",
       "category": "安養中心",
       "images": [
-        "https://img.freepik.com/free-photo/building_1127-3187.jpg?t=st=1740926708~exp=1740930308~hmac=984de1995baf27efd17304edc1856930b608cc20b8db65208a60e85d2ab55eb8&w=1800",
+        "https://github.com/Jack-Xiao-2024/Project_D01/blob/dev/assets/images/Building/B-04.png?raw=true",
         "https://raw.githubusercontent.com/Jack-Xiao-2024/Project_D01/refs/heads/dev/assets/images/Intro-B/IntroB-01.png",
         "https://raw.githubusercontent.com/Jack-Xiao-2024/Project_D01/refs/heads/dev/assets/images/Intro-C/IntroC-01.png",
         "https://raw.githubusercontent.com/Jack-Xiao-2024/Project_D01/refs/heads/dev/assets/images/Intro-D/IntroD-01.png",
@@ -321,20 +297,9 @@
       ],
       "description": "樂康頤和園專為銀髮族打造,提供溫馨的安養服務。我們設有舒適的居住空間,讓長者享受如家般的溫暖。",
       "age": "60 歲以上",
-      "caringItem": [
-        "鼻胃管",
-        "導尿管",
-        "精神照護"
-      ],
-      "medicalService": [
-        "如廁訓練",
-        "延緩失能",
-        "營養評估"
-      ],
-      "allowance": [
-        "身心障礙",
-        "喘息服務"
-      ],
+      "caringItem": ["鼻胃管", "導尿管", "精神照護"],
+      "medicalService": ["如廁訓練", "延緩失能", "營養評估"],
+      "allowance": ["身心障礙", "喘息服務"],
       "roomCards": [
         {
           "id": 1,
@@ -345,7 +310,7 @@
         },
         {
           "id": 2,
-          "imgUrl": "https://raw.githubusercontent.com/Jack-Xiao-2024/Project_D01/refs/heads/dev/assets/images/Building/B-15.png",
+          "imgUrl": "https://raw.githubusercontent.com/Jack-Xiao-2024/Project_D01/refs/heads/dev/assets/images/Building/B-16.png",
           "roomType": "三人房",
           "price": 36000,
           "availableBeds": 1
@@ -402,19 +367,9 @@
       ],
       "description": "怡然頤養居提供全方位的安養服務,讓長者安心養老。我們設有專業的護理單位,確保每位住民的健康需求得到滿足。",
       "age": "65 歲以上",
-      "caringItem": [
-        "認知障礙（失智）",
-        "氣切管",
-        "氧氣"
-      ],
-      "medicalService": [
-        "術後照顧",
-        "生活照顧",
-        "傷口照顧"
-      ],
-      "allowance": [
-        "老人補助（低收、中低收）"
-      ],
+      "caringItem": ["認知障礙（失智）", "氣切管", "氧氣"],
+      "medicalService": ["術後照顧", "生活照顧", "傷口照顧"],
+      "allowance": ["老人補助（低收、中低收）"],
       "roomCards": [
         {
           "id": 1,
@@ -425,7 +380,7 @@
         },
         {
           "id": 2,
-          "imgUrl": "https://raw.githubusercontent.com/Jack-Xiao-2024/Project_D01/refs/heads/dev/assets/images/Building/B-15.png",
+          "imgUrl": "https://raw.githubusercontent.com/Jack-Xiao-2024/Project_D01/refs/heads/dev/assets/images/Building/B-16.png",
           "roomType": "三人房",
           "price": 36000,
           "availableBeds": 2
@@ -444,7 +399,7 @@
       "name": "祥和樂年苑",
       "category": "安養中心",
       "images": [
-        "https://img.freepik.com/free-photo/building-with-white-walls_1127-2272.jpg?t=st=1740926794~exp=1740930394~hmac=484a110c5e5504a989b085b104bc4ac66d60b9e59ad8f267f3f9ac69c3f97f94&w=2000",
+        "https://github.com/Jack-Xiao-2024/Project_D01/blob/dev/assets/images/Building/B-05.png?raw=true",
         "https://raw.githubusercontent.com/Jack-Xiao-2024/Project_D01/refs/heads/dev/assets/images/Intro-B/IntroB-01.png",
         "https://raw.githubusercontent.com/Jack-Xiao-2024/Project_D01/refs/heads/dev/assets/images/Intro-C/IntroC-01.png",
         "https://raw.githubusercontent.com/Jack-Xiao-2024/Project_D01/refs/heads/dev/assets/images/Intro-D/IntroD-01.png",
@@ -482,19 +437,9 @@
       ],
       "description": "祥和樂年苑致力於營造一個舒適、健康、快樂的安養環境。我們提供先進的護理設施,全天候照護長者的身體健康。",
       "age": "60 歲以上",
-      "caringItem": [
-        "復健照護",
-        "腫瘤照護（癌症）",
-        "透析照護（洗腎）"
-      ],
-      "medicalService": [
-        "如廁訓練",
-        "延緩失能",
-        "營養評估"
-      ],
-      "allowance": [
-        "身心障礙"
-      ],
+      "caringItem": ["復健照護", "腫瘤照護（癌症）", "透析照護（洗腎）"],
+      "medicalService": ["如廁訓練", "延緩失能", "營養評估"],
+      "allowance": ["身心障礙"],
       "roomCards": [
         {
           "id": 1,
@@ -505,7 +450,7 @@
         },
         {
           "id": 2,
-          "imgUrl": "https://raw.githubusercontent.com/Jack-Xiao-2024/Project_D01/refs/heads/dev/assets/images/Building/B-15.png",
+          "imgUrl": "https://raw.githubusercontent.com/Jack-Xiao-2024/Project_D01/refs/heads/dev/assets/images/Building/B-16.png",
           "roomType": "三人房",
           "price": 36000,
           "availableBeds": 3
@@ -562,19 +507,9 @@
       ],
       "description": "康福護理苑提供專業的長期護理服務,致力於守護長者的健康與生活質量。我們設有高規格的醫護照護室,全天候提供專業的醫療支援。",
       "age": "65 歲以上",
-      "caringItem": [
-        "鼻胃管",
-        "導尿管",
-        "精神照護"
-      ],
-      "medicalService": [
-        "醫師巡診",
-        "鄰近醫院",
-        "藥師評估"
-      ],
-      "allowance": [
-        "喘息服務"
-      ],
+      "caringItem": ["鼻胃管", "導尿管", "精神照護"],
+      "medicalService": ["醫師巡診", "鄰近醫院", "藥師評估"],
+      "allowance": ["喘息服務"],
       "roomCards": [
         {
           "id": 1,
@@ -585,7 +520,7 @@
         },
         {
           "id": 2,
-          "imgUrl": "https://raw.githubusercontent.com/Jack-Xiao-2024/Project_D01/refs/heads/dev/assets/images/Building/B-15.png",
+          "imgUrl": "https://raw.githubusercontent.com/Jack-Xiao-2024/Project_D01/refs/heads/dev/assets/images/Building/B-16.png",
           "roomType": "三人房",
           "price": 36000,
           "availableBeds": 1
@@ -642,20 +577,9 @@
       ],
       "description": "靜怡護理家園為長者提供安寧舒適的護理服務。我們擁有設備完善的病房,讓長者在安全舒適的環境中休養。",
       "age": "60 歲以上",
-      "caringItem": [
-        "認知障礙（失智）",
-        "氣切管",
-        "氧氣"
-      ],
-      "medicalService": [
-        "腫瘤照顧",
-        "洗腎接送",
-        "營養評估"
-      ],
-      "allowance": [
-        "老人補助（低收、中低收）",
-        "身心障礙"
-      ],
+      "caringItem": ["認知障礙（失智）", "氣切管", "氧氣"],
+      "medicalService": ["腫瘤照顧", "洗腎接送", "營養評估"],
+      "allowance": ["老人補助（低收、中低收）", "身心障礙"],
       "roomCards": [
         {
           "id": 1,
@@ -666,7 +590,7 @@
         },
         {
           "id": 2,
-          "imgUrl": "https://raw.githubusercontent.com/Jack-Xiao-2024/Project_D01/refs/heads/dev/assets/images/Building/B-15.png",
+          "imgUrl": "https://raw.githubusercontent.com/Jack-Xiao-2024/Project_D01/refs/heads/dev/assets/images/Building/B-16.png",
           "roomType": "三人房",
           "price": 36000,
           "availableBeds": 3
@@ -719,19 +643,9 @@
       ],
       "description": "頤康護理居致力於提供全方位的護理服務,讓長者享受高品質的生活。我們設有先進的醫療護理站,隨時守護長者的健康。",
       "age": "65 歲以上",
-      "caringItem": [
-        "復健照護",
-        "腫瘤照護（癌症）",
-        "透析照護（洗腎）"
-      ],
-      "medicalService": [
-        "術後照顧",
-        "生活照顧",
-        "傷口照顧"
-      ],
-      "allowance": [
-        "喘息服務"
-      ],
+      "caringItem": ["復健照護", "腫瘤照護（癌症）", "透析照護（洗腎）"],
+      "medicalService": ["術後照顧", "生活照顧", "傷口照顧"],
+      "allowance": ["喘息服務"],
       "roomCards": [
         {
           "id": 1,
@@ -742,7 +656,7 @@
         },
         {
           "id": 2,
-          "imgUrl": "https://raw.githubusercontent.com/Jack-Xiao-2024/Project_D01/refs/heads/dev/assets/images/Building/B-15.png",
+          "imgUrl": "https://raw.githubusercontent.com/Jack-Xiao-2024/Project_D01/refs/heads/dev/assets/images/Building/B-16.png",
           "roomType": "三人房",
           "price": 36000,
           "availableBeds": 3
@@ -799,19 +713,9 @@
       ],
       "description": "晴朗日間照護中心為長者提供安心的日間照護服務。我們設有溫馨的休息區,讓長者在日間舒適放鬆。",
       "age": "60 歲以上",
-      "caringItem": [
-        "鼻胃管",
-        "導尿管",
-        "精神照護"
-      ],
-      "medicalService": [
-        "如廁訓練",
-        "延緩失能",
-        "營養評估"
-      ],
-      "allowance": [
-        "老人補助（低收、中低收）"
-      ],
+      "caringItem": ["鼻胃管", "導尿管", "精神照護"],
+      "medicalService": ["如廁訓練", "延緩失能", "營養評估"],
+      "allowance": ["老人補助（低收、中低收）"],
       "roomCards": [
         {
           "id": 1,
@@ -822,7 +726,7 @@
         },
         {
           "id": 2,
-          "imgUrl": "https://raw.githubusercontent.com/Jack-Xiao-2024/Project_D01/refs/heads/dev/assets/images/Building/B-15.png",
+          "imgUrl": "https://raw.githubusercontent.com/Jack-Xiao-2024/Project_D01/refs/heads/dev/assets/images/Building/B-16.png",
           "roomType": "三人房",
           "price": 36000,
           "availableBeds": 3
@@ -875,20 +779,9 @@
       ],
       "description": "晨曦安養日間中心提供長者溫馨的日間照護環境。我們擁有設備齊全的護理站,隨時提供健康護理。",
       "age": "65 歲以上",
-      "caringItem": [
-        "認知障礙（失智）",
-        "氣切管",
-        "氧氣"
-      ],
-      "medicalService": [
-        "術後照顧",
-        "生活照顧",
-        "傷口照顧"
-      ],
-      "allowance": [
-        "身心障礙",
-        "喘息服務"
-      ],
+      "caringItem": ["認知障礙（失智）", "氣切管", "氧氣"],
+      "medicalService": ["術後照顧", "生活照顧", "傷口照顧"],
+      "allowance": ["身心障礙", "喘息服務"],
       "roomCards": [
         {
           "id": 1,
@@ -899,7 +792,7 @@
         },
         {
           "id": 2,
-          "imgUrl": "https://raw.githubusercontent.com/Jack-Xiao-2024/Project_D01/refs/heads/dev/assets/images/Building/B-15.png",
+          "imgUrl": "https://raw.githubusercontent.com/Jack-Xiao-2024/Project_D01/refs/heads/dev/assets/images/Building/B-16.png",
           "roomType": "三人房",
           "price": 36000,
           "availableBeds": 3
@@ -952,19 +845,9 @@
       ],
       "description": "暖陽日間關懷中心致力於為長者提供全方位的日間照護服務。我們設有專業護理區,確保每位長者的健康得到悉心照顧。",
       "age": "60 歲以上",
-      "caringItem": [
-        "復健照護",
-        "腫瘤照護（癌症）",
-        "透析照護（洗腎）"
-      ],
-      "medicalService": [
-        "醫師巡診",
-        "鄰近醫院",
-        "藥師評估"
-      ],
-      "allowance": [
-        "老人補助（低收、中低收）"
-      ],
+      "caringItem": ["復健照護", "腫瘤照護（癌症）", "透析照護（洗腎）"],
+      "medicalService": ["醫師巡診", "鄰近醫院", "藥師評估"],
+      "allowance": ["老人補助（低收、中低收）"],
       "roomCards": [
         {
           "id": 1,
@@ -975,7 +858,7 @@
         },
         {
           "id": 2,
-          "imgUrl": "https://raw.githubusercontent.com/Jack-Xiao-2024/Project_D01/refs/heads/dev/assets/images/Building/B-15.png",
+          "imgUrl": "https://raw.githubusercontent.com/Jack-Xiao-2024/Project_D01/refs/heads/dev/assets/images/Building/B-16.png",
           "roomType": "三人房",
           "price": 36000,
           "availableBeds": 3
@@ -993,13 +876,78 @@
   "carts": [
     {
       "productId": 1,
-      "userId": "2",
+      "userId": 3,
+      "id": 1
+    }
+  ],
+  "orders": [
+    {
+      "productId": 3,
+      "userId": 2,
+      "data": {
+        "checkInDate": "2025-03-28",
+        "fullName": "12",
+        "mobilePhone": "0919 291 929",
+        "address": "123",
+        "mail": "1212@mail.com",
+        "message": "",
+        "creditCard": "4003 0103 0103 0101",
+        "expiryDate": "12/29",
+        "cvv": "122",
+        "roomType": "六人房"
+      },
       "id": 1
     },
     {
-      "productId": 1,
-      "userId": "2",
+      "productId": 3,
+      "userId": 2,
+      "data": {
+        "checkInDate": "2025-03-20",
+        "fullName": "唐納川普",
+        "mobilePhone": "0912 222 222",
+        "address": "1600 Pennsylvania Avenue NW, Washington, DC 20500美國",
+        "mail": "1@mail.com",
+        "message": "123",
+        "creditCard": "4030 0013 0030 3030",
+        "expiryDate": "02/29",
+        "cvv": "222",
+        "roomType": "單人房"
+      },
       "id": 2
+    },
+    {
+      "productId": 2,
+      "userId": 3,
+      "data": {
+        "checkInDate": "2026-05-29",
+        "fullName": "Jack Xiao",
+        "mobilePhone": "0975 500 680",
+        "address": "13F.-7, No. 168, Sec. 2, Bo'ai Rd",
+        "mail": "jim3470022@gmail.com",
+        "message": "",
+        "creditCard": "4000 4000 4000 4000",
+        "expiryDate": "03/29",
+        "cvv": "123",
+        "roomType": "單人房"
+      },
+      "id": 3
+    },
+    {
+      "productId": 2,
+      "userId": 3,
+      "data": {
+        "checkInDate": "2025-06-30",
+        "fullName": "Jack Xiao",
+        "mobilePhone": "0975 500 680",
+        "address": "13F.-7, No. 168, Sec. 2, Bo'ai Rd",
+        "mail": "jim3470022@gmail.com",
+        "message": "",
+        "creditCard": "4000 4000 4000 1234",
+        "expiryDate": "04/30",
+        "cvv": "123",
+        "roomType": "單人房"
+      },
+      "id": 4
     }
   ]
 }
